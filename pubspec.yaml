@@ -2,6 +2,7 @@ name: paradox
 author: Seth Ladd <sethladd@gmail.com>
 version: 0.0.1
 description: HttpRequests that work even when offline.
+homepage: https://github.com/sethladd/paradox.dart
 dependencies:
   lawndart: any
   uuid: any
