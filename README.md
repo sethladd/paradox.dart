@@ -29,5 +29,8 @@ main() {
   });
 ```
 
+## Status
+
+Very much alpha. Feedback welcome!
 
 See LICENSE.
